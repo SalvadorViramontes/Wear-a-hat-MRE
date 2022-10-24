@@ -1,0 +1,224 @@
+{
+    "none": {
+        "displayName": "None",
+        "menuPosition": {
+            "x": -0.15,
+            "y": 0,
+            "z": 0
+        },
+        "buttonSize": {
+            "x": 0.3,
+            "y": 0.3,
+            "z": 0.15
+        },
+        "buttonPosition": {
+            "x": 0.015,
+            "y": 0.015,
+            "z": 0
+        }
+    },
+    "hardhat": {
+        "displayName": "Hard Hat",
+        "resourceName": "hardhat.glb",
+        "scale": {
+            "x": 0.018,
+            "y": 0.015,
+            "z": 0.015
+        },
+        "rotation": {
+            "x": -5,
+            "y": 0,
+            "z": 0
+        },
+        "position": {
+            "x": 0,
+            "y": 0.06,
+            "z": -0.04
+        },
+        "menuPosition": {
+            "x": 0,
+            "y": -0.05,
+            "z": -0.04
+        },
+        "buttonSize": {
+            "x": 0.3,
+            "y": 0.2,
+            "z": 0.3
+        },
+        "buttonPosition": {
+            "x": 0,
+            "y": 0,
+            "z": -0.05
+        }
+    },
+    "LavaHelmet": {
+        "displayName": "Lava Helmet",
+        "resourceName": "LavaHelmet.glb",
+        "scale": {
+            "x": 0.015,
+            "y": 0.015,
+            "z": 0.015
+        },
+        "rotation": {
+            "x": 0,
+            "y": 180,
+            "z": 0
+        },
+        "position": {
+            "x": 0,
+            "y": 0.09,
+            "z": -0.05
+        },
+        "menuPosition": {
+            "x": 0,
+            "y": 0.15,
+            "z": -0.05
+        },
+        "buttonSize": {
+            "x": 0.3,
+            "y": 0.3,
+            "z": 0.3
+        },
+        "buttonPosition": {
+            "x": 0,
+            "y": 0,
+            "z": -0.05
+        }
+    },
+    "redhat": {
+        "displayName": "Red Hat",
+        "resourceName": "redhat.glb",
+        "scale": {
+            "x": 0.015,
+            "y": 0.015,
+            "z": 0.015
+        },
+        "rotation": {
+            "x": 15,
+            "y": 180,
+            "z": 0
+        },
+        "position": {
+            "x": 0,
+            "y": 0.09,
+            "z": -0.05
+        },
+        "menuPosition": {
+            "x": 0,
+            "y": 0.09,
+            "z": -0.05
+        },
+        "buttonSize": {
+            "x": 0.4,
+            "y": 0.25,
+            "z": 0.4
+        },
+        "buttonPosition": {
+            "x": 0,
+            "y": 0.075,
+            "z": -0.05
+        }
+    },
+    "strawhat": {
+        "displayName": "Straw Hat",
+        "resourceName": "strawhat.glb",
+        "scale": {
+            "x": 0.015,
+            "y": 0.015,
+            "z": 0.015
+        },
+        "rotation": {
+            "x": 20,
+            "y": 180,
+            "z": 0
+        },
+        "position": {
+            "x": 0,
+            "y": 0.09,
+            "z": -0.05
+        },
+        "menuPosition": {
+            "x": 0,
+            "y": 0.09,
+            "z": -0.05
+        },
+        "buttonSize": {
+            "x": 0.7,
+            "y": 0.4,
+            "z": 0.7
+        },
+        "buttonPosition": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        }
+    },
+    "tophat": {
+        "displayName": "Top Hat",
+        "resourceName": "tophat.glb",
+        "scale": {
+            "x": 0.015,
+            "y": 0.015,
+            "z": 0.015
+        },
+        "rotation": {
+            "x": 10,
+            "y": 180,
+            "z": 0
+        },
+        "position": {
+            "x": 0,
+            "y": 0.05,
+            "z": -0.05
+        },
+        "menuPosition": {
+            "x": 0,
+            "y": -0.1,
+            "z": -0.05
+        },
+        "buttonSize": {
+            "x": 0.25,
+            "y": 0.3,
+            "z": 0.25
+        },
+        "buttonPosition": {
+            "x": 0,
+            "y": 0,
+            "z": -0.05
+        }
+    },
+    "wizardhat": {
+        "displayName": "Wizard Hat",
+        "resourceName": "wizardhat.glb",
+        "scale": {
+            "x": 0.015,
+            "y": 0.015,
+            "z": 0.015
+        },
+        "rotation": {
+            "x": 10,
+            "y": 180,
+            "z": 0
+        },
+        "position": {
+            "x": 0,
+            "y": 0.055,
+            "z": -0.06
+        },
+        "menuPosition": {
+            "x": 0,
+            "y": -0.15,
+            "z": -0.06
+        },
+        "buttonSize": {
+            "x": 0.3,
+            "y": 0.5,
+            "z": 0.5
+        },
+        "buttonPosition": {
+            "x": 0,
+            "y": 0.02,
+            "z": -0.05
+        }
+    }
+}
